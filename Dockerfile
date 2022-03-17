@@ -1,6 +1,6 @@
 FROM python:3.10-alpine
 
-LABEL maintainer="alc00277@gmail.com"
+LABEL maintainer="email@email.com"
 
 # Recommended for python:3.10-alpine container
 ENV PYTHONUNBUFFERED 1
